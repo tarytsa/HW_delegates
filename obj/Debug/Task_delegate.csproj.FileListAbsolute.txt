@@ -1,0 +1,7 @@
+C:\Users\acer\source\repos\HW_5\Task_delegate\bin\Debug\Task_delegate.exe.config
+C:\Users\acer\source\repos\HW_5\Task_delegate\bin\Debug\Task_delegate.exe
+C:\Users\acer\source\repos\HW_5\Task_delegate\bin\Debug\Task_delegate.pdb
+C:\Users\acer\source\repos\HW_5\Task_delegate\obj\Debug\Task_delegate.csprojAssemblyReference.cache
+C:\Users\acer\source\repos\HW_5\Task_delegate\obj\Debug\Task_delegate.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\HW_5\Task_delegate\obj\Debug\Task_delegate.exe
+C:\Users\acer\source\repos\HW_5\Task_delegate\obj\Debug\Task_delegate.pdb
